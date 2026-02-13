@@ -1,1 +1,1 @@
-Rikkahub, but without telemtry. Made for testing pruposes.
+Rikkahub, but without telemtry. Made for testing purposes.
